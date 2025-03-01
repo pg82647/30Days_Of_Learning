@@ -15,7 +15,7 @@ A journal showing all the new things i would have ;learnt from March 1 - March 3
 #### Practice:  
 * I applied the VLOOKUP and XLOOKUP functions to a table in order to find out the prices of Sugar Cookie and Chocolate Chip.  
 
-![VLOOKUP](Day1/images/Lookup_Functions)  
+![VLOOKUP](30Days_Of_Learning/Day1/images/Lookup_Functions)  
 
 ![XLOOKUP](Day1/images/Lookup_Functions2)
 
