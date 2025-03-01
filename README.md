@@ -1,8 +1,8 @@
 # 30Days_Of_Learning
 A journal showing all the new things i would have ;learnt from March 1 - March 30 2025  
 
-<Day1>
-### Day 1 - March 1, 2025  
+<details>
+<summary> Day 1 - March 1, 2025 </summary> 
 #### Goal For Today: Learn Advanced Excel Functions  
 #### What I Learned:  
 * I learnt how to apply VLOOKUP function to a data table in Excel.  
