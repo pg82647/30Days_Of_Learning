@@ -1,7 +1,7 @@
 # 30Days_Of_Learning
 A journal showing all the new things i would have ;learnt from March 1 - March 30 2025  
 
-<details>
+<Day1>
 ### Day 1 - March 1, 2025  
 #### Goal For Today: Learn Advanced Excel Functions  
 #### What I Learned:  
@@ -29,6 +29,6 @@ A journal showing all the new things i would have ;learnt from March 1 - March 3
 
 #### Reflection:  
 * Even though the VLOOKUP is quite useful, the XLOOKUP seems easier to use because it focuses more on columns, therefore, making it easier to capture targeted detail(s).  
-</details>  
+</Day1>  
 
 
