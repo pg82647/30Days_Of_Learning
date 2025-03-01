@@ -15,18 +15,18 @@ A journal showing all the new things i would have ;learnt from March 1 - March 3
 #### Practice:  
 * I applied the VLOOKUP and XLOOKUP functions to a table in order to find out the prices of Sugar Cookie and Chocolate Chip.  
 
-![VLOOKUP](30Days_Of_Learning/Day1/images/Lookup_Functions)  
+![VLOOKUP](Day1/images/Lookup_Functions.jpg)  
 
-![XLOOKUP](Day1/images/Lookup_Functions2)
+![XLOOKUP](Day1/images/Lookup_Functions2.jpg)
 
 
 * I practiced how to use the TODAY and NOW functions.  
 
-![TODAY_FUNCTION](Day1/images/Date_Functions)
+![TODAY_FUNCTION](Day1/images/Date_Functions.jpg)
 
-![NOW_FUNCTION](Day1/images/Date_Functions2
 
-)
+![NOW_FUNCTION](Day1/images/Date_Functions2.jpg)
+
 #### Reflection:  
 * Even though the VLOOKUP is quite useful, the XLOOKUP seems easier to use because it focuses more on columns, therefore, making it easier to capture targeted detail(s).  
 </details>  
