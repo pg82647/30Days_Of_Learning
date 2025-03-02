@@ -31,6 +31,25 @@ A journal showing all the new things i would have ;learnt from March 1 - March 3
 
 #### Reflection:  
 * Even though the VLOOKUP is quite useful, the XLOOKUP seems easier to use because it focuses more on columns, therefore, making it easier to capture targeted detail(s).  
-</Day1>  
+</details>  
 
 
+<details>  
+<summary> Day 2 - March 2, 2025 </summary>  
+
+### Goal For Today: Understanding The Data Analysis Process  
+
+![THE DATA ANALYSIS PROCESS](Day2/images/dap1.jpg)  
+
+
+#### What I Learned Today:  
+* I learnt that there are rules that guide the actions of every data analyst from the moment they are tasked with a problem till they present their findings to stakeholders.  
+* I realized that some stages tend to overlap and may be repetitive, for instance, the Data Cleaning phase. Still on the Data Cleaning phase, i learnt that data analysts must always bear in mind that all data gathered/sourced for any project/task are never clean enough and so must ensure that even though the data is not thoroughly cleaned, it should be far cleaner than when they had first received them.  
+* I learnt that even though there are numerous tools for data analysis at the disposal of the analyst, they must ensure that the tools they choose for the analytical process must be compatible with the data sourced.  
+* i also learnt that data visualization options must be applied with their target audience at heart. In otherwords, the choice of data visualization must be easy to understand by the target audience so that the analytical process can be more meaningful.  
+* I learnt that communicating facts that have been gleamed from the data must be conducted in very comprehensible language so that the target audience can understand the message being passed.  
+
+#### Reflections:  
+A data analyst's job is never done until the message is perfectly understood by the target audience. Therefore, we should as much as we can ensure that people comprehend what we are doing, else, the entire process would be meaningless.  
+
+</details>
