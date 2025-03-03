@@ -51,5 +51,22 @@ A journal showing all the new things i would have ;learnt from March 1 - March 3
 
 #### Reflections:  
 A data analyst's job is never done until the message is perfectly understood by the target audience. Therefore, we should as much as we can ensure that people comprehend what we are doing, else, the entire process would be meaningless.  
+</details>  
 
+
+<details>  
+<summary> Day 3 - March 3, 2025 </summary>  
+### Goal For Today: The 10,000-hour rule  
+
+![Desena](Day3/images/dol_1.jpg)  
+
+![Ericsson](Day3/images/dol_2.png)  
+
+
+#### What I Learned Today:  
+* I learnt that Ander Ericsson, a psychologist, posited that for anyone to be great at something, they have to dedicate a minimum of 10,000 hours to learning that thing. In other words, if you want to be great at something, you have to put in a minimum of 10,000 hours of deliberate, structured, and focused practice. His research helps us to learn and improve easier and much faster. But it all depends on just how far you are willing to go at that thing, and provided the rules guiding it (that new thing you are learning) do not change.  
+This theory was made popular by Malcolm Gladwell.  
+
+#### Reflection:  
+To be better than 95% of people in an industry, i need to dedicate a minimum of 18 minutes of focused learning per day at one thing.  
 </details>
