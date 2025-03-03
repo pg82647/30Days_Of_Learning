@@ -58,7 +58,7 @@ A data analyst's job is never done until the message is perfectly understood by 
 <summary> Day 3 - March 3, 2025 </summary>  
 ### Goal For Today: The 10,000-hour rule  
 
-![Desena](Day3/images/dol_1.jpg)  
+![Desena](Day3/images/dol_1.jpeg)  
 
 ![Ericsson](Day3/images/dol_2.png)  
 
