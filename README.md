@@ -6,7 +6,7 @@ A journal showing all the new things i would have ;learnt from March 1 - March 3
 
 #### Goal For Today: Learn Advanced Excel Functions  
 
-#### What I Learned:  
+#### What I Learned Today:  
 * I learnt how to apply VLOOKUP function to a data table in Excel.  
 * I also learned how to apply XLOOKUP function to a data table in Excel.  
 * I learnt how to use the TODAY function to get add a Date column to an Excel table, as well as how to use the NOW function to provide Date in Timestamp form.  
@@ -69,4 +69,23 @@ This theory was made popular by Malcolm Gladwell.
 
 #### Reflection:  
 To be better than 95% of people in an industry, i need to dedicate a minimum of 18 minutes of focused learning per day at one thing.  
+</details>  
+
+<details>  
+<summary> Day 4 - March 4, 2025 </summary>
+### Goal For Today: How data is the oil of the 21st century  
+
+![THE ECONOMIST](Day4/images/dolc1.jpg)  
+
+
+![DATA IS THE NEW OIL](Day4/images/dolc2.jpg)  
+
+
+#### What I Learnt Today:  
+"Information is the oil of the 21st century, and analytics is the combustion engine " - Peter Sondergaard.
+
+By this comparison, the importance of data and its processing in the 21st century is made clear.
+Oil was the most importance resource of the 20th century. Today, data is the most valuable resource. And just as oil is of little relevance until refined, the true value of data remains untapped until it gets analyzed. Similarly, as a combustion engine transforms oil into energy, data analytics transforms information into insights that drive decisions, and give a competitive edge.
+So, all economic agents (individuals, businesses, governments, etc) rely on data for a competitive edge.  
+
 </details>
