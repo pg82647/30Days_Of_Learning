@@ -1,5 +1,5 @@
 # 30Days_Of_Learning
-A journal showing all the new things i would have ;learnt from March 1 - March 30 2025  
+A journal showing all the new things i would have learnt from March 1 - March 30 2025  
 
 <details>
 <summary> Day 1 - March 1, 2025 </summary>  
@@ -98,5 +98,4 @@ So, all economic agents (individuals, businesses, governments, etc) rely on data
 #### What I Learnt Today:  
 According to an online article at theatlantic.com, Chrome and Firefox Users Make Better Employees! This is a surprising finding but has been discussed in a few informal studies or surveys. While no definitive large-scale academic study has made this claim, it's often shared through articles on sites like Harvard Business Review or Medium, where correlations between browsing behavior and work performance have been speculated. You might find these mentioned in business or workplace studies on productivity and technology adoption.  
 So, which browser are you using?  
-
 </details>
