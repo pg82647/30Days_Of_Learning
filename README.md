@@ -88,4 +88,15 @@ By this comparison, the importance of data and its processing in the 21st centur
 Oil was the most importance resource of the 20th century. Today, data is the most valuable resource. And just as oil is of little relevance until refined, the true value of data remains untapped until it gets analyzed. Similarly, as a combustion engine transforms oil into energy, data analytics transforms information into insights that drive decisions, and give a competitive edge.
 So, all economic agents (individuals, businesses, governments, etc) rely on data for a competitive edge.  
 
+</details>  
+
+
+<details>
+<summary> Day 5 - March 5, 2025  </summary>  
+### Goal For Today: How your browser reflects your I/Q  
+
+#### What I Learnt Today:  
+According to an online article at theatlantic.com, Chrome and Firefox Users Make Better Employees! This is a surprising finding but has been discussed in a few informal studies or surveys. While no definitive large-scale academic study has made this claim, it's often shared through articles on sites like Harvard Business Review or Medium, where correlations between browsing behavior and work performance have been speculated. You might find these mentioned in business or workplace studies on productivity and technology adoption.  
+So, which browser are you using?  
+
 </details>
