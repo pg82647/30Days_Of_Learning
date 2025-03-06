@@ -93,9 +93,55 @@ So, all economic agents (individuals, businesses, governments, etc) rely on data
 
 <details>
 <summary> Day 5 - March 5, 2025  </summary>  
-### Goal For Today: How your browser reflects your I/Q  
+### Goal For Today: How your choice of browser reflects your I/Q  
+
+![Intelligence_Quotient](Day5/images/dolc1.jpg)  
+
+![Browsers](Day5/images/dolc2.jpg)
 
 #### What I Learnt Today:  
 According to an online article at theatlantic.com, Chrome and Firefox Users Make Better Employees! This is a surprising finding but has been discussed in a few informal studies or surveys. While no definitive large-scale academic study has made this claim, it's often shared through articles on sites like Harvard Business Review or Medium, where correlations between browsing behavior and work performance have been speculated. You might find these mentioned in business or workplace studies on productivity and technology adoption.  
 So, which browser are you using?  
-</details>
+</details>  
+
+
+<details>  
+<summary> Day6 - March 6, 2025 </summary>  
+### Goal For Today:  Crime Organizations Of The Past And The Current Wealth Of Rich Countries  
+
+![Global_Crime_Hotspots](Day6/images/dolc1.jpg)  
+
+![Economic_Development](Day6/images/dolc3.jpg)  
+
+
+#### What I Learnt Today:  
+The relationship between past crime organizations and current economic development in rich countries is multifaceted. Historically, organized crime has often thrived in environments where central governments and civil society are disorganized, weak, or untrustworthy. This can occur during periods of political, economic, or social turmoil or transition, such as changes in government or rapid economic development.  
+
+In many rich countries, the legacy of organized crime can be seen in several ways:  
+Economic Impact: Organized crime groups have historically engaged in a variety of illegal activities, including drug trafficking, money laundering, and fraud. These activities can distort economic markets, divert resources from productive uses, and create inefficiencies. For example, the United States Drug Enforcement Administration (DEA) has identified Mexican transnational criminal organizations (TCOs) as the greatest criminal drug threat to the United States, highlighting their dominance in drug trafficking.  
+Institutional Weakness: The presence of organized crime can weaken institutions, including law enforcement and the judiciary. This can lead to a lack of trust in these institutions, which is crucial for economic development. Strong and trustworthy institutions are essential for maintaining the rule of law, protecting property rights, and ensuring a stable business environment.  
+Social Control: Criminal organizations often seek to develop social control over specific communities, which can lead to a parallel system of governance. This can undermine the legitimacy of the state and create areas where the state has limited influence. For instance, in some regions, criminal groups provide protection and social services, which can make it difficult for the state to regain control.  
+Economic Inequality: There is compelling evidence that economic inequality is positively correlated with crime. Economic inequality can alienate individuals from societal institutions and values, leading to social resistance and engagement in criminal behavior. This relationship has been studied in various contexts, including developed countries, where economic inequality can contribute to higher crime rates.  
+Historical Context: In some cases, the historical presence of organized crime has left a lasting impact on the economic and social fabric of a country. For example, the legacy of the Italian Mafia in Italy and the Yakuza in Japan has influenced the development of these countries' economies and social structures. These organizations have sometimes been integrated into legitimate business activities, creating a complex interplay between legal and illegal economies.  
+Policy Implications: Understanding the historical relationship between organized crime and economic development is crucial for policymakers. Interventions that aim to reduce economic inequality and strengthen institutions can help mitigate the negative impacts of organized crime. For example, public participation programs and efforts to improve financial literacy can help reduce social resistance and the propensity for criminal behavior.
+In summary, the relationship between past crime organizations and current economic development in rich countries is characterized by the impact of organized crime on economic markets, institutional strength, social control, and economic inequality. Addressing these issues is essential for fostering sustainable economic development and reducing the influence of organized crime.  
+
+![Crime](Day6/images/dolc2.jpg)  
+
+![Rich_Countries](Day6/images/dolc4.jpg)  
+
+#### SOURCES:  
+[The Guardian](https://www.theguardian.com/business/2025/mar/03/soaring-uk-crime-cost-up-policy-exchange-policing-prisons)  
+
+[Global Initiative](https://globalinitiative.net/analysis/cross-cutting-threat-to-development/)  
+
+[Lemonade](https://www.lemonde.fr/en/sports/article/2024/10/30/the-calabrian-mafia-s-hold-on-milan-s-football-stands_6730976_9.html)  
+
+[Sage Pub](https://journals.sagepub.com/doi/10.1177/1088767907311849)  
+
+[The Wall Street Journal](https://www.wsj.com/world/europe/europe-drugs-gangs-organized-crime-netherlands-6f58ea45)  
+
+[Brookings](https://www.brookings.edu/articles/is-the-risk-of-crime-against-businesses-greater-in-more-unequal-countries/)  
+
+</details>  
+
