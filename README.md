@@ -106,7 +106,7 @@ So, which browser are you using?
 
 
 <details>  
-<summary> Day6 - March 6, 2025 </summary>  
+<summary> Day 6 - March 6, 2025 </summary>  
 ### Goal For Today:  Crime Organizations Of The Past And The Current Wealth Of Rich Countries  
 
 ![Global_Crime_Hotspots](Day6/images/dolc1.jpg)  
