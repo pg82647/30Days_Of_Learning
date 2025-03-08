@@ -145,3 +145,15 @@ In summary, the relationship between past crime organizations and current econom
 
 </details>  
 
+<details>  
+<summary>  Day 8 - March 8, 2025 </summary>  
+### Goal For Today:  Feminine Hurricane Names And Increased Deadliness  
+
+![Satelite_Image_of_a_hurricane](Day8/images/dolc1.jpg)  
+
+#### What I Learnt Today: 
+Feminine Hurricane Names and Increased Deadliness: This is a well-known finding from a study published in Nature Geoscience (2014), which found that hurricanes with feminine names are deadlier than those with masculine names, primarily due to implicit biases. The study was conducted by researchers at the University of Illinois and the University of Michigan, and it looked at the effect of names on public perception and preparedness. You can find it referenced in news articles about gender bias, such as The New York Times and The Guardian.  
+
+</details>  
+
+
