@@ -156,7 +156,7 @@ Feminine Hurricane Names and Increased Deadliness: This is a well-known finding 
 
 </details>  
 
-<details  
+<details>  
 <summary>  Day 10 - March 10, 2025 </summary>  
 ### Goal For Today:  Maternal Mortality In Sub-Saharan Africa  
 
