@@ -236,7 +236,7 @@ These examples highlight systemic issues such as mismanagement, corruption, and 
 </details>  
 
 <details>  
-<summary>> Day 12 - March 12, 2025 </summary>  
+<summary> Day 12 - March 12, 2025 </summary>  
 ### Goal For Today: Indigenous People Of The World  
 
 [Indigenous People](Day12/images/dolc1.jpg)
