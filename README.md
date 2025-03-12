@@ -2,7 +2,7 @@
 A journal showing all the new things i would have learnt from March 1 - March 30 2025  
 
 <details>
-<summary> Day 1 - March 1, 2025 </summary>  
+<summary> Day 01 - March 1, 2025 </summary>  
 
 #### Goal For Today: Learn Advanced Excel Functions  
 
@@ -35,7 +35,7 @@ A journal showing all the new things i would have learnt from March 1 - March 30
 
 
 <details>  
-<summary> Day 2 - March 2, 2025 </summary>  
+<summary> Day 02 - March 2, 2025 </summary>  
 
 ### Goal For Today: Understanding The Data Analysis Process  
 
@@ -55,7 +55,7 @@ A data analyst's job is never done until the message is perfectly understood by 
 
 
 <details>  
-<summary> Day 3 - March 3, 2025 </summary>  
+<summary> Day 03 - March 3, 2025 </summary>  
 ### Goal For Today: The 10,000-hour rule  
 
 ![Desena](Day3/images/dol_1.jpeg)  
@@ -72,7 +72,7 @@ To be better than 95% of people in an industry, i need to dedicate a minimum of 
 </details>  
 
 <details>  
-<summary> Day 4 - March 4, 2025 </summary>
+<summary> Day 04 - March 4, 2025 </summary>
 ### Goal For Today: How data is the oil of the 21st century  
 
 ![THE ECONOMIST](Day4/images/dolc1.jpg)  
@@ -92,7 +92,7 @@ So, all economic agents (individuals, businesses, governments, etc) rely on data
 
 
 <details>
-<summary> Day 5 - March 5, 2025  </summary>  
+<summary> Day 05 - March 5, 2025  </summary>  
 ### Goal For Today: How your choice of browser reflects your I/Q  
 
 ![Intelligence_Quotient](Day5/images/dolc1.jpg)  
@@ -106,7 +106,7 @@ So, which browser are you using?
 
 
 <details>  
-<summary> Day 6 - March 6, 2025 </summary>  
+<summary> Day 06 - March 6, 2025 </summary>  
 ### Goal For Today:  Crime Organizations Of The Past And The Current Wealth Of Rich Countries  
 
 ![Global_Crime_Hotspots](Day6/images/dolc1.jpg)  
@@ -146,7 +146,7 @@ In summary, the relationship between past crime organizations and current econom
 </details>  
 
 <details>  
-<summary>  Day 8 - March 8, 2025 </summary>  
+<summary>  Day 08 - March 8, 2025 </summary>  
 ### Goal For Today:  Feminine Hurricane Names And Increased Deadliness  
 
 ![Satelite_Image_of_a_hurricane](Day8/images/dolc1.jpg)  
@@ -203,5 +203,37 @@ __Engaging Men and Communities__: Engaging families, men, and communities in mat
 In summary, while significant challenges remain, Sub-Saharan Africa has made progress in addressing maternal mortality, and continued investments in healthcare, education, and social reforms are essential to further reducing maternal deaths in the region.  
 
 </details>  
+
+<details>  
+<> Day11 - March 11, 2025 </summary>  
+### Goal For Today:  A Look At Some Unproductive Establishments  
+
+#### What I Learnt Today:  
+Several government parastatals in Nigeria have been identified as receiving funding but not effectively fulfilling their mandates. Notable examples include:  
+
+**1. Nigerian Hydrocarbon Pollution Remediation Project (HYPREP):**  
+Established to address oil pollution in the Niger Delta, HYPREP has faced significant criticism for its ineffectiveness. Leaked documents and satellite imagery from 2021 revealed that cleanup sites remained heavily polluted. Issues such as the selection of unqualified contractors, inadequate laboratory analyses, and corruption have been highlighted. The United Nations eventually withdrew its support in 2023 due to these challenges.  
+[HYPREP](https://apnews.com/article/nigeria-niger-delta-oil-spill-cleanup-hyprep-8c7533ad31d1aad5c0e3933a41891579)  
+
+**2. Niger Delta Development Commission (NDDC):**  
+Tasked with developing the Niger Delta region, the NDDC has faced scrutiny for numerous abandoned or incomplete projects. By 2021, over 13,000 projects were either uncompleted or abandoned, despite the commission receiving approximately ₦6 trillion between 1999 and 2021. In Rivers State alone, 953 projects were abandoned. A forensic audit ordered by President Muhammadu Buhari uncovered significant mismanagement within the commission. citeturn0search14  
+[NDDC](https://en.m.wikipedia.org/wiki/Niger_Delta_Development_Commission)  
+
+**3. Nigerian Railway Corporation (NRC):**  
+The NRC has struggled with inefficiency and underperformance. Despite owning nearly 200 locomotives, up to 75% are non-operational. Additionally, less than half of its passenger coaches and freight wagons are serviceable. The lack of maintenance and outdated infrastructure have severely hindered its effectiveness. citeturn0search15  
+[NRC](https://fr.wikipedia.org/wiki/Nigerian_Railway_Corporation)  
+
+**4. Primary Healthcare Centres (PHCs):**  
+Despite government investments and promises, many PHCs across Nigeria remain non-functional. Challenges include inadequate infrastructure, lack of medical personnel, and insufficient funding, leading to persistent healthcare delivery issues. citeturn0search2  
+[PHCs](https://en.wikipedia.org/wiki/Muhammad_Ali_Pate)  
+
+**5. Power Holding Company of Nigeria (PHCN):**  
+Before its privatization, PHCN was notorious for inefficiency, leading to widespread power outages and economic losses. Mismanagement, corruption, and inadequate infrastructure were significant challenges. citeturn0search0  
+[PHCN](https://www.reuters.com/world/africa/world-bank-approves-157-billion-loan-nigeria-2024-09-30/)  
+
+These examples highlight systemic issues such as mismanagement, corruption, and inadequate oversight within certain Nigerian government parastatals, leading to inefficiencies despite substantial funding.  
+
+</details>  
+
 
 
