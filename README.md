@@ -239,7 +239,7 @@ These examples highlight systemic issues such as mismanagement, corruption, and 
 <summary> Day 12 - March 12, 2025 </summary>  
 ### Goal For Today: Indigenous People Of The World  
 
-[Indigenous People](Day12/images/dolc1.jpg)
+![Indigenous People](Day12/images/dolc1.jpg)
 
 #### What I Learnt Today:  
 There are an estimated 476 million indigenous people worldwide, spread across 90 countries and representing around 5,000 cultures. The highest indigenous populations relative to total population are found in Samoa, Greenland, and French Polynesia. In countries like China, India, and the Philippines, indigenous people also make up significant portions of the population, though they still face challenges, with many living in extreme poverty. Despite formal recognition of their rights in many countries, indigenous communities still account for 19% of the world’s extreme poor, despite comprising only 6% of the global population. We must continue to advocate for their rights and improve their living conditions. #IndigenousRights #GlobalCommunities #CulturalDiversity
