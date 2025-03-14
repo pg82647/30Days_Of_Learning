@@ -205,7 +205,7 @@ In summary, while significant challenges remain, Sub-Saharan Africa has made pro
 </details>  
 
 <details>  
-<summary> Day11 - March 11, 2025 </summary>  
+<summary> Day 11 - March 11, 2025 </summary>  
 ### Goal For Today:  A Look At Some Unproductive Establishments  
 
 #### What I Learnt Today:  
