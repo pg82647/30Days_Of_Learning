@@ -3,7 +3,8 @@ A journal showing all the new things i would have learnt from March 1 - March 30
 
 <details>
 <summary> Day 01 - March 1, 2025 </summary>  
-### Goal For Today: Learn Advanced Excel Functions  
+Goal For Today: Learn Advanced Excel Functions  
+-----------------------------------------------
 
 #### What I Learned Today:  
 * I learnt how to apply VLOOKUP function to a data table in Excel.  
