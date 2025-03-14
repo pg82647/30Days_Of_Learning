@@ -36,6 +36,7 @@ A journal showing all the new things i would have learnt from March 1 - March 30
 
 <details>  
 <summary> Day 02 - March 2, 2025 </summary>  
+
 ### Goal For Today: Understanding The Data Analysis Process  
 
 ![THE DATA ANALYSIS PROCESS](Day2/images/dap1.jpg)  
@@ -55,6 +56,7 @@ A data analyst's job is never done until the message is perfectly understood by 
 
 <details>  
 <summary> Day 03 - March 3, 2025 </summary>  
+
 ### Goal For Today: The 10,000-hour rule  
 
 ![Desena](Day3/images/dol_1.jpeg)  
@@ -72,6 +74,7 @@ To be better than 95% of people in an industry, i need to dedicate a minimum of 
 
 <details>  
 <summary> Day 04 - March 4, 2025 </summary>  
+
 ### Goal For Today: How data is the oil of the 21st century  
 
 ![THE ECONOMIST](Day4/images/dolc1.jpg)  
@@ -92,6 +95,7 @@ So, all economic agents (individuals, businesses, governments, etc) rely on data
 
 <details>
 <summary> Day 05 - March 5, 2025  </summary>  
+
 ### Goal For Today: How your choice of browser reflects your I/Q  
 
 ![Intelligence_Quotient](Day5/images/dolc1.jpg)  
@@ -106,6 +110,7 @@ So, which browser are you using?
 
 <details>  
 <summary> Day 06 - March 6, 2025 </summary>  
+
 ### Goal For Today:  Crime Organizations Of The Past And The Current Wealth Of Rich Countries  
 
 ![Global_Crime_Hotspots](Day6/images/dolc1.jpg)  
@@ -146,8 +151,8 @@ In summary, the relationship between past crime organizations and current econom
 
 <details>  
 <summary>  Day 08 - March 8, 2025 </summary>  
-### Goal For Today:  Feminine Hurricane Names And Increased Deadliness  
 
+### Goal For Today:  Feminine Hurricane Names And Increased Deadliness  
 ![Satelite_Image_of_a_hurricane](Day8/images/dolc1.jpg)  
 
 #### What I Learnt Today: 
@@ -157,6 +162,7 @@ Feminine Hurricane Names and Increased Deadliness: This is a well-known finding 
 
 <details>  
 <summary>  Day 10 - March 10, 2025 </summary>  
+
 ### Goal For Today:  Maternal Mortality In Sub-Saharan Africa  
 
 ![Maternal Mortality Rate in Sub-Saharan Africa](Day10/images/dolc1.jpg)  
@@ -205,6 +211,7 @@ In summary, while significant challenges remain, Sub-Saharan Africa has made pro
 
 <details>  
 <summary> Day 11 - March 11, 2025 </summary>  
+
 ### Goal For Today:  A Look At Some Unproductive Establishments  
 
 #### What I Learnt Today:  
@@ -236,6 +243,7 @@ These examples highlight systemic issues such as mismanagement, corruption, and 
 
 <details>  
 <summary> Day 12 - March 12, 2025 </summary>  
+
 ### Goal For Today: Indigenous People Of The World  
 
 ![Indigenous People](Day12/images/dolc1.jpeg)
@@ -249,6 +257,7 @@ There are an estimated 476 million indigenous people worldwide, spread across 90
 
 <details>  
 <summary> Day 13 - March 13, 2025 </summary>  
+
 ### Goal For Today: Capturing Diversity In The Data Analysis Process  
 
 ![Diversity](Day13/images/dolc1.jpg)  
@@ -294,6 +303,7 @@ Diversity in the data analytics process is about more than just avoiding bias â€
 
 <details>  
 <summary> Day 14 - March 14, 2025 </summary>  
+
 ### Goal For Today: User Data Protection  
 
 ![Apple Logo](Day14/images/dolc1.webp)  
