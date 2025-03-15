@@ -328,4 +328,15 @@ In essence, this report emphasizes how Apple is navigating the complexities of b
 
 </details>  
 
+<details>  
+<summary> Day 15 - March 15, 2025 </summary>  
+
+### Goal For Today: Data Lakehouse vs. Data Warehouse: What’s the DBA’s Role?  
+
+#### What I Learnt Today:  
+According to an article at Data.com, data lakehouses and data warehouses are compared while focusing on the evolving role of Database Administrators (DBAs). A data lakehouse merges the strengths of data lakes, which handle unstructured data, and data warehouses, which optimize structured data. It allows organizations to manage both types of data in a single platform.  
+DBAs' roles are shifting with the advent of lakehouses. They will need to manage data models, optimize performance, and ensure security and compliance in this new architecture. The article highlights the challenges DBAs face, such as adapting to new technologies and tools, but also points out the opportunities for innovation and growth within this evolving landscape. Ultimately, the DBA's role will become more integrated with the overall data strategy in organizations.  
+
+</details>  
+
 
