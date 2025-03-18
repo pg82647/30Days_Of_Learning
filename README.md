@@ -339,4 +339,38 @@ DBAs' roles are shifting with the advent of lakehouses. They will need to manage
 
 </details>  
 
+<details>  
+<summary> Day 16 - March 16, 2025 </summary>  
+
+### Goal For Today:  
+
+#### What I Learnt Today:  
+According to Rotem Yifat, data analysts usually run into certain problems while conducting analysis. Some possible walk-arounds were provided.  
+Here are some of the problems.  
+
+Historical data is usually insufficient for gaining insights. A possible walk-around that problem would be to conduct predictive analysis in order to uncover trends in order to adapt to emerging situations.  
+Underutilization of insights by stakeholders can be very demoralizing considering the time, effort, and resources that went into descriptive analytics and drawing up of dashboards. For this, it is advised that data analysts use platforms that help them generate actionable predictions instead of looking at data that reflects the past alone.  
+
+Sometimes, there is the problem of insufficient data for analysis. But what happens when there is abundant data but an analyst trims down the volume of data due to data quality checks? Not much insights can be gleamed, and this would lead to a porrly made report. To solve this problem, it is deemed best practice to leverage automated machine learning platforms where big data can be easily analysed, and precise predictions can be easily generated.  
+It is always assumed that predictions and forecasts are not immune to bias due to a myriad of factors that include utilization of predictors that do not directly impact the target. To solve this problem, predicitive analysis platforms would clearly show how and why each predictor was used and how they affect the target variable.  
+Many analytics tools are unable to accommodate change management and engineering support. Also, analytics projects are usually time tasking and computationally expensive. But predictive models only need to be built once with predictive algorithm platforms. With automated model retraining and monitoring features, all you need to do is feed them new data.  
+Utilizing data security best practices can be a lot for data analysts to handle. Seeing as data breaches can be very expensive, data analysts find data security hurdles too high to cross. This is where predictive algorithm platforms sail easy as they guarantee data safety and security as they ensure all-round safety.
+
+[Pecan](https://www.pecan.ai/blog/common-data-analytics-problems-solutions/)
+
+</details>
+
+<details>  
+<summary> Day 17 - March 17, 2025 </summary>  
+
+### Goal For Today: PI DAY!  
+
+#### What I Learnt Today:  
+Did you know that PI DAY is celebrated every year on March 14?  
+I just found out today.  
+Apparently, some businesses drop prices for some select products/items to $3.14 to mark the day.  
+Enjoy your Pi till next time!  
+
+</details>  
+
 
