@@ -373,4 +373,18 @@ Enjoy your Pi till next time!
 
 </details>  
 
+<details>  
+<summary> Day 18 - MArch 18, 2025 </summary>  
+
+### Goal For Today:  Music And Workplace Productivity  
+
+#### What I Learnt Today:  
+So workplace productivity gave rise to apps like Spotify, Youtube, Music and Apple Music.  
+Since listening to music at workplace increases productivity, apps that curate music for listeners (like Spotify) emerged. Upbeat and instrumental music genres seem to get workers focused on their tasks and motivated throughout their work hours. With music easing workers’ moods, it is no wonder they’re quite productive.  The positive relationship between listening to music and workplace productivity clearly shows that workers need to incorporate music into their work hours.  
+[PMI](https://pmiphx.org/blog/the-role-of-music-in-boosting-team-productivity-in-project-management)
+[SPOTIFY](https://open.spotify.com/playlist/4tbmtX1Ze7jNxDyYoOiYvo)  
+[THE TIMES](https://www.thetimes.com/uk/science/article/groovy-music-boosts-brainpower-as-well-as-mood-t9vvlpx8x?region=global)
+
+</details>  
+
 
