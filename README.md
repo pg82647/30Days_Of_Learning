@@ -342,7 +342,7 @@ DBAs' roles are shifting with the advent of lakehouses. They will need to manage
 <details>  
 <summary> Day 16 - March 16, 2025 </summary>  
 
-### Goal For Today:  
+### Goal For Today:  Predictive Algorithm Platforms  
 
 #### What I Learnt Today:  
 According to Rotem Yifat, data analysts usually run into certain problems while conducting analysis. Some possible walk-arounds were provided.  
