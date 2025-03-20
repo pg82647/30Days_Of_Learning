@@ -418,4 +418,21 @@ MTN Nigeria’s performance in the coming years will hinge on a stabilized naira
 
 </details>  
 
+<details>  
+<summary> Day 20 - March 20, 2025 </summary>  
+
+### Goal For Today: Effortless Spreadsheet Normalisation With LLM  
+
+#### What I Learnt Today:  
+Large Language Models (LLMs) help make spreadsheets cleaner therefore making it ready for use by analysts and easy-to-read by machines.  
+We know that much of data are usually messy at first. Even though (human) agents can understand them, the data itself are not ready for processing. Data has to be cleaned before it is fit for use.  
+But what is clean data? Clean data must be structured and organized such that everything is where it should be. Structured data must have all data in tabular form with columns holding similar information, and rows referring to one unit of observation. Together, the rows and columns form a table.  
+While agents are very capable of cleaning datasets (even large ones), they are prone to errors. That is why LLMs are relevant. They are fully automated and can make processes that seem pain-staking for humans very easy, and on top of that reduce much of the time it would take a human to manually do the cleaning.  
+LLMs have a workflow they follow which involves – but not limited to - serialization, schema selection, spreadsheet transformation, data validation, and final output.  
+LLMs are said to be more robust, maintainable, and even more reliable than an agent.
+
+The full article is available at [TDS](https://towardsdatascience.com/effortless-spreadsheet-normalisation-with-llm/)
+
+</details>  
+
 
