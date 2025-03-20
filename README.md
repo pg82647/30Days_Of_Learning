@@ -387,4 +387,33 @@ Since listening to music at workplace increases productivity, apps that curate m
 
 </details>  
 
+<details>  
+<summary> Day 19 - March 19, 2025 </summary>  
+
+### Goal For Today: MTN Nigeria's Revenue Decline  
+
+#### What I Learnt Today:  
+🚨 MTN Nigeria's Revenue Decline Marks a Shift in the Group's Financial Landscape 🚨  
+For the first time since 2019, MTN Nigeria has lost its position as the highest-earning subsidiary within the MTN Group. In 2024, the Nigerian unit reported a post-tax loss of ₦400.4 billion ($260.2 million), falling behind the West and Central Africa (WECA) region and South Africa in revenue rankings. This marks a significant shift in the Group's revenue dynamics.  
+
+📉 Key Factors Driving the Decline:  
+
+MTN Nigeria’s revenue in 2024 dropped to $2.26 billion, down from $4 billion in 2023, largely due to a weakened naira and rising inflation.  
+Despite a 36% increase in revenue to ₦3.36 trillion (up from ₦2.47 trillion in 2023), foreign exchange losses pushed the Nigerian unit into a loss-making position.  
+📊 Revenue Shifts:  
+
+South Africa earned $2.89 billion in 2024, surpassing Nigeria to become the Group’s second-largest subsidiary.  
+The WECA region, including Ghana, Cameroon, Côte d’Ivoire, and others, led with $3.1 billion in revenue. Ghana was the top contributor in this region.  
+🔮 Future Implications for MTN Nigeria: The financial strain on MTN Nigeria could have broader consequences for the Group’s investments in its largest African market. MTN Group prioritizes capital expenditure for its most profitable units. While Nigeria continues to receive significant funding for network expansion and 5G rollouts ($986.2 million in 2024), further revenue declines may impact future allocations, affecting growth and service quality.  
+
+🌍 Historical Context: South Africa has traditionally been the Group’s dominant revenue generator. However, Nigeria first surpassed South Africa in 2013 and maintained the top position until 2017, before reclaiming its lead in 2019. But now, 2024 marks a pivotal change.  
+
+📈 Looking Ahead: MTN Group recently suspended Nigeria’s revenue guidance, but with the Nigerian Communications Commission (NCC) approving tariff increases, the company has reinstated its revenue outlook. CEO Ralph Mupita expressed confidence, noting that inflation eased towards the end of 2024 and tariff hikes have yet to be fully implemented.  
+
+As of December 31, 2024, MTN Group operates in 16 countries across Africa and the Middle East, serving 291 million customers. With a renewed focus on its core African operations, MTN is positioning itself to weather this shift in its financial landscape.  
+
+MTN Nigeria’s performance in the coming years will hinge on a stabilized naira, easing inflation, and a recovery in consumer spending power.  
+
+</details>  
+
 
