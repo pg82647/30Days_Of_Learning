@@ -392,6 +392,8 @@ Since listening to music at workplace increases productivity, apps that curate m
 
 ### Goal For Today: MTN Nigeria's Revenue Decline  
 
+![MTN Nigeria](Day19/images/dolc1.webp)  
+
 #### What I Learnt Today:  
 🚨 MTN Nigeria's Revenue Decline Marks a Shift in the Group's Financial Landscape 🚨  
 For the first time since 2019, MTN Nigeria has lost its position as the highest-earning subsidiary within the MTN Group. In 2024, the Nigerian unit reported a post-tax loss of ₦400.4 billion ($260.2 million), falling behind the West and Central Africa (WECA) region and South Africa in revenue rankings. This marks a significant shift in the Group's revenue dynamics.  
