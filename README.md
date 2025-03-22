@@ -436,3 +436,114 @@ The full article is available at [TDS](https://towardsdatascience.com/effortless
 </details>  
 
 
+<details>
+<summary> Day 21 - March 21, 2025 </summary>
+
+### Goal For Today: What Germany Currently Is Up To, Debt-Wise
+
+#### What I Learned Today: What Germany Currently Is Up To, Debt-Wise
+Germany faces €1,600 in interest payments every second. The country’s debt totals trillions—over a thousand billion Euros—and there are plans to add up to one trillion more in the next decade.  
+
+Government finances involve such enormous figures that it’s hard to truly grasp the scale of numbers like €1 billion or €1 trillion. To help visualize these sums, I will explore how traditional charts and lists fail to convey their magnitude and how simple programming can provide a more interactive understanding. Germany is a good example, given its current media attention and publicly available debt statistics.  
+
+---
+
+### Raw Figures: Not Enough to Understand  
+
+Let’s begin by listing some key debt figures without considering household debts. This method gives us a sense of the numbers, but it doesn’t put them into perspective:  
+
+- **€1,600:** Interest per second  
+- **€25,503:** Debt per German citizen (if divided equally)  
+- **€49.5 billion:** Annual interest payments  
+- **€100 billion:** Special fund for the German military  
+- **€500 billion:** Planned debt for infrastructure  
+- **€2.11 trillion:** Total German government debt (as of March 2025)  
+
+While these figures tell us about Germany’s financial situation, they don’t help us understand how these numbers relate to each other or to more familiar amounts. We might know that €1 billion is 1,000 times €1 million, but this basic comparison still doesn’t provide a sense of scale.  
+
+---
+
+### Visualization: Making the Numbers Click  
+
+Now, let’s create a simple linear chart using Python and Matplotlib. This will help us visualize the figures side by side:  
+
+For this, I selected four key amounts to compare:  
+
+- **€1,600** (the interest per second)  
+- **€25,503** (the per-person debt)  
+- **€1 billion** (a large sum, often seen in corporate finances)  
+- **€49.5 billion** (Germany’s annual interest payments, more than the GDP of many countries)  
+
+#### Plotting the numbers in Python:  
+
+```python
+import matplotlib.pyplot as plt
+
+# Data
+amounts = [1600, 25503, 1e9, 49.5e9]
+labels = ['Per-sec. interest', 'Per-person debt', '€1 billion', 'Yearly interest']
+
+plt.figure(figsize=(10, 6))
+plt.bar(labels, amounts, color=['orange', 'orange', '#03A9F4', '#ff0000'])
+```
+
+The resulting plot clearly shows that the large sums completely overshadow the €1,600. People can often relate more to amounts like €1,000, which could cover a monthly income, but the chart doesn’t even register that amount.  
+
+---
+
+### Logarithmic Scaling: A Better View  
+
+To make the differences more apparent, let’s use logarithmic scaling. With just one additional line of code, we can get a more informative chart:  
+
+In a logarithmic scale, each step on the axis represents a multiplication by a constant factor (in this case, 100). This allows us to visualize both small and large amounts on the same chart.  
+
+#### Python code with logarithmic scaling:  
+
+```python
+plt.yscale('log')
+plt.bar(labels, amounts, color=['orange', 'orange', '#03A9F4', '#ff0000'])
+```
+
+This scale helps show the difference between everyday figures like €1,600 and the larger sums, but it still leaves us wondering if there’s a better way to convey the magnitude of Germany’s debt.  
+
+---
+
+### Interactive Web Visualization: A More Engaging Approach  
+
+To provide a clearer understanding, I created a simple interactive webpage using HTML, CSS, and JavaScript. This page allows users to scroll through different debt figures, making the comparison more tangible. Here's how it works:  
+
+Each pixel in the visualization represents **€1,000**. By adjusting the height and width of bars according to each debt figure, the user can scroll and get a better sense of the size of each debt.  
+
+#### The HTML structure includes simple div elements for each debt amount:  
+
+```html
+<div class="debt-wrapper">
+  <h2 class="debt-title">€25,503 (Debt per German citizen)</h2>
+  <div class="debt" data-height="25503"></div>
+</div>
+```
+
+The JavaScript calculates the dimensions of each bar based on the total amount represented by the figure, and CSS ensures that the webpage is visually appealing and easy to navigate.  
+
+---
+
+### The Final Result: Scrolling Through Debt  
+
+With this interactive page, users can scroll through the visualized debt amounts. One pixel equals **€1,000**, so even small scroll movements represent substantial amounts of debt. For example:  
+
+- **€10,000** monthly earnings only cover **10 pixels**.  
+- Scrolling **1 pixel** represents **€200,000** in new debt.  
+
+If you’re interested in exploring this visualization, you can find it here.  
+
+This simple webpage illustrates the massive scale of Germany's debt. It allows users to interactively explore the size of the figures, helping them grasp the true magnitude of the sums involved.  
+
+---
+
+### Conclusion: Understanding Debt Beyond the Numbers  
+
+Even though we can break down Germany’s debt into numbers, it’s hard to truly comprehend the full extent without seeing it visually. With this interactive visualization, users can better understand how much money is involved in governmental debt and how it compares to more familiar financial figures.  
+
+For Germans, this represents a challenging future, as someone will have to repay this enormous debt—alongside existing obligations.  
+
+</details>
