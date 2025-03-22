@@ -557,7 +557,7 @@ For Germans, this represents a challenging future, as someone will have to repay
 Everyone should learn something new everyday no matter how insignificant it may seem.
 I decided to get more information regarding which programming language would be easier to learn in order to easily switch between that and Excel, or even SQL. There are many articles out there that favor Python. But for someone who simply needs basic operations like data cleaning, manipulation and visualization, Python would seem like a mountain too high to climb.
 After going through a sub-reddit (r/analytics), i discovered that it is easier to transition from R to Python, given that i have a rich background in Excel.
-You can read more on the discussion at [Sub-reddit](]https://lnkd.in/ezqeHpq7)  
+You can read more on the discussion at [Sub-reddit](https://www.reddit.com/r/analytics/comments/yhqqbs/is_r_worth_learning/?rdt=59088)  
 
 </details>  
 
