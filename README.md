@@ -561,5 +561,26 @@ You can read more on the discussion at [Sub-reddit](https://www.reddit.com/r/ana
 
 </details>  
 
+<details>  
+<summary> Day 23 - March 23, 2025 </summary>  
 
+### Goal For Today: How To Automate Processes in Excel  
+
+#### What I Learnt Today:  
+Turn on the MACRO recorder at the bottom left corner of the status bar  
+Click on it, and the RECORD  MACRO will appear.  
+Give it a name and assign it a shortcut key (if you want) and then click OK.  
+The MACRO recorder starts recording every step you make in Excel.  
+Setup row headers and adjust formatting as desired.  
+Once you’re done with the steps, click the square button to stop the recording.  
+Next, in a new sheet, go to the VIEW tab and click on MACROS  
+Then select VIEW MACROS.  
+You’ll see the macros you just recorded listed there.  
+Click on it and click Run.  
+If you had assigned it a shortcut key, just use that.  
+And with that, you can save time on repetitive Excel tasks
+
+I learnt this at [Excel Campus](https://www.youtube.com/@ExcelCampus/featured) on Youtube  
+
+</details>  
 
